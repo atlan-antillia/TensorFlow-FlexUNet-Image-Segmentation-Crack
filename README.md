@@ -56,7 +56,6 @@ The dataset used here was obtained from
 <a href="https://www.kaggle.com/datasets/lakshaymiddha/crack-segmentation-dataset">
 <b>Crack Segmentation Dataset</b>
 </a>
-
 <br><br>
 <b>About Dataset</b><br>
 This Dataset contains around 11.200 images that are merged from 12 available crack segmentation datasets.
@@ -69,7 +68,6 @@ All the images are resized to the size of (448, 448).
 The two folders of images and masks contain all the images. 
 The two folders train and test contain training and testing images splitted from the two above folder. 
 The splitting is stratified so that the proportion of each dataset in the train and test folder are similar
-
 <br>
 <br>
 <b>LICENSE</b><br>
@@ -82,8 +80,7 @@ Unknown
  If you would like to train this Crack Segmentation model by yourself,
  please download our data <a href="https://drive.google.com/file/d/1xAWWpffwOb6CnWNmwtNH4h3XoDaYLd7S/view?usp=sharing">
  Crack-ImageMask-Dataset.zip
- </a> on the google drive,
-, expand the downloaded, and put it under dataset folder to be:
+ </a> on the google drive, expand the downloaded, and put it under dataset folder to be:
 <pre>
 ./dataset
 └─Crack
@@ -102,7 +99,6 @@ Unknown
 <br>
 As shown above, the number of images of train and valid datasets is large enough to use for a training set of our segmentation model.
 <br><br>
-
 
 <b>Train_images_sample</b><br>
 <img src="./projects/TensorFlowFlexUNet/Crack/asset/train_images_sample.png" width="1024" height="auto">
