@@ -347,14 +347,10 @@ Li Yang, Jingwei Deng, Hailong Duan & Chenchen Yang <br>
 <b>4. EfficientCrackNet: A Lightweight Model for Crack Segmentation</b><br>
 Abid Hasan Zim, Aquib Iqbal, Zaid Al-Huda, Asad Malik, Minoru Kuribayash<br>
 <a href="https://arxiv.org/pdf/2409.18099">https://arxiv.org/pdf/2409.18099</a>
-
 <br>
 <br>
-
 <b>5. Fine-grained crack segmentation for high-resolution images via a multiscale cascaded network</b><br>
-
 Honghu Chu, Pang-jo Chun<br>
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mice.13111">https://onlinelibrary.wiley.com/doi/full/10.1111/mice.13111</a>
-
 <br>
 
